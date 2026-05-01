@@ -20,12 +20,18 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 “Code is like humor. When you have to explain it, it’s bad.”  
+— Cory House
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kritipandey125-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Projects
+- 🚀 [My Portfolio](https://github.com/kritipandey125-lgtm/portfolio)
 
+
+![](https://komarev.com/ghpvc/?username=kritipandey125-lgtm&color=blue)
 ---
-[![](https://komarev.com/ghpvc/?username=kritipandey125-lgtm&icon=0&color=0)](https://visitcount.itsvg.in)
+✨ Thanks for visiting my profile! Feel free to connect 😊
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

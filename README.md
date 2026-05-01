@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 I’m a Computer Science student exploring Data Structures & Algorithms and developing scalable web applications ⚡<br>
+🚀 CS student turning ideas into real-world applications  
+💡 Strong focus on DSA, problem-solving & backend development  
+🌱 Currently exploring scalable systems and APIs  
+🔥 Always learning, always building  <br>
 
 
 ## 🌐 Socials:

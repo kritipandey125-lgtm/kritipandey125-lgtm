@@ -16,6 +16,9 @@
 
 ## 🔝 Top Projects
 - 🚀 [My Portfolio](https://github.com/kritipandey125-lgtm/portfolio)
+- 🚀 Real Estate Website
+- 🚀 Task Manager
+- 🚀 Solar System Explorer
 
 
 ![](https://komarev.com/ghpvc/?username=kritipandey125-lgtm&color=blue)
